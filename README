@@ -1,0 +1,20 @@
+This project was made for the Robotics Vision Class on ITESM Campus Mty.
+Project made By Juan Carlos Aguilera Pérez , Artemio Orta and Alejandro Elizondo.
+This project was based on a previous code given by Dr. Jose Luis Gordillo Teacher Associate and Research Professor.
+
+
+The Project connects to the ARDrone2.0 WiFi Network it start and can be control by the keyboard or with a joystick.
+It works with four previous define figures of a Football , Baseball Bat, Soccer Ball and a Tennis Racket.
+
+Each of the Figures has and specific meaning:
+
+	Racket  -> Flight Left
+	Bat 	-> Flight Right
+	Soccer	-> Flight Back
+	Football-> Flight Front
+
+The images should be on green color as the ones on the imageLayout.jpg , the figures could be separated on a single iamge for every figure.
+
+To start the capture of the image and the processing the user have to press 'f' on the keyboard and to stop the execution press 'esc'
+
+For any further information contact Juan Carlos Aguilera Pérez on aguilerapjc@gmail.com
